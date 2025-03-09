@@ -1,0 +1,2 @@
+message: '🎉 You completed the scavenger hunt in 4.56 seconds!',
+  sceletonKey: '15f463abb1d6c8df0c010c881dfed07d568f4500fa31612dd52a534098dc3f3b:d75d968e4bdfd8d0d1f8302b6eef829b'
